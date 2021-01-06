@@ -1,0 +1,236 @@
+body{
+margin: auto;
+}
+section{
+height: 500px;
+}
+.top-section{
+
+}
+.navbar {
+   margin-top: 20px;
+}
+.navbar ul{
+    display: inline-flex;
+    list-style: none;
+    margin-left: 1000px;
+}
+.navbar ul li{
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding: 20px;
+    outline: none;
+    font-family: arial;
+    color: black;
+    font-weight: 600;
+   
+    
+}
+.edit-side-1 {
+    width: 40%;
+    float: left;
+   
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 50px;
+}
+.edit-side-1 h1{
+   
+ font-family: 'Fjalla One', sans-serif;
+ font-weight: 600;
+ font-size: 60px;
+ color:  #300855eb;
+}
+.spna-1 {
+    color: #300855eb;
+}
+.span-2 {
+    color: #ff8367;
+}
+.edit-side-1 p {
+ font-size: 18px;
+ font-family: 'Roboto', sans-serif;
+ font-weight: 600;
+ color:#000000ab;
+}
+.edit-side-1 a{
+    text-decoration: none;
+    padding: 20px 50px;
+    font-family: 'Roboto', sans-serif ;
+    background-color: orange;
+    background-image: linear-gradient( 45deg, lightsalmon , tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    
+}
+.edit-side-1 img{
+    width: 80%;
+}
+.edit-side-2{
+    margin-top: 200px;
+}
+.middel-section {
+   margin-top: 200px;
+   background-color: #ecefef;
+   height: 1500px;
+   padding-top: 70px;
+   
+}
+.middel-section h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40px;
+    margin-bottom: 100px;
+   text-align: center;
+}
+.all-card {
+    margin-left: 110px;
+   
+}
+.card{
+  float: left;
+  position: left;
+  width: 22%;
+  margin-left: 3%;
+  padding: 2%;
+  box-shadow: 10px 10px 80px white;
+  background-color: white;
+  border-radius: 10%;
+  margin-bottom: 50px;
+}
+.card h2{
+ font-size: 30px;
+ font-family: 'Roboto', sans-serif;
+ font-weight: 600;
+ color:  #300855eb;
+}
+.card p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000ab;
+}
+
+
+.card img {
+    width: 80%;
+    border-radius: 10%;
+    margin-left: 8px;
+    background-color: #8080805e;
+    padding: 24px;
+}
+
+.button a {
+    text-decoration: none;
+    padding: 24px 70px;
+    background-image: linear-gradient(45deg, lightsalmon , tomato);
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 639px;
+    margin-top: -279px;
+    font-family: arial;
+    font-size: 20px;
+}
+.end-section{
+
+}
+.end-div img {
+    width: 60%;
+    margin-left: 309px;
+    margin-top: 114px;
+}
+.end-div h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    margin-top: -146px;
+    margin-left: 375px;
+}
+
+.end-div a {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(200deg, lightsalmon , tomato);
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    border-radius: 5%;
+    position: absolute;
+    margin-left: -281px;
+    margin-top: 199px;
+}
+.text {
+    height: 500px;
+    position: absolute;
+    margin-top: -158px;
+    margin-left: 125px;
+}
+.text h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: #ff8367;;
+}
+input {
+    margin-top: 9px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.contact {
+    width: 50%;
+    margin-left: 30%;
+    padding: 10px;
+    
+}
+
+
+.button-2 a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg, blue, cyan);
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 19px;
+    font-family: arial;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    margin-top: 480px;
+    margin-left: 50px;
+}
+
+footer h4 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 23px;
+    color: #00000085;
+    position: absolute;
+    margin-top: -48px;
+    margin-left: 665px;
+}
+footer a h2{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+footer img{
+    width: 40px;
+    padding: 7px;
+    margin-top: -24px;
+}
+footer h5 {
+    font-family: arial;
+    font-size: 15px;
+
+    color: black;
+    margin-top: 42px;
+    
+}
