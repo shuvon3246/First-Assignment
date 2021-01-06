@@ -24,14 +24,11 @@ height: 500px;
     outline: none;
     font-family: arial;
     color: black;
-    font-weight: 600;
-   
-    
+    font-weight: 600;  
 }
 .edit-side-1 {
     width: 40%;
     float: left;
-   
     margin-left: 5%;
     padding-left: 2%;
     margin-top: 50px;
@@ -112,8 +109,6 @@ height: 500px;
     font-weight: 600;
     color: #000000ab;
 }
-
-
 .card img {
     width: 80%;
     border-radius: 10%;
